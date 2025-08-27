@@ -1,4 +1,4 @@
-Progression de l'année 2024-2025:
+Progression de l'année 2025-2026
 1. Les nombres.
 2. Les fractions, les puissances et les racines carrées.
 3. Les vecteurs (sans repère)
